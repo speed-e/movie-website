@@ -1,0 +1,53 @@
+{
+    "movies": [
+        {
+            "imageUrl": "https://via.placeholder.com/150/771796",
+            "title": "The Godfather",
+            "releaseYear": "1972",
+            "genre": "Thriller"
+        },
+        {
+            "imageUrl": "https://via.placeholder.com/150/771796",
+            "title": "Pulp Fiction",
+            "releaseYear": "1994",
+            "genre": "Thriller"
+        },
+        {
+            "imageUrl": "https://via.placeholder.com/150/771796",
+            "title": "The Godfather: Part II",
+            "releaseYear": "1974",
+            "genre": "Thriller"
+        },
+        {
+            "imageUrl": "https://via.placeholder.com/150/771796",
+            "title": "The Godfather: Part III",
+            "releaseYear": "1990",
+            "genre": "Thriller"
+        },
+        {
+            "imageUrl": "https://via.placeholder.com/150/771796",
+            "title": "2012",
+            "releaseYear": "2009",
+            "genre": "Action"
+        },
+        {
+            "imageUrl": "https://via.placeholder.com/150/771796",
+            "title": "Goodfellas",
+            "releaseYear": "1990",
+            "genre": "Thriller"
+        },
+        {
+            "imageUrl": "https://via.placeholder.com/150/771796",
+            "title": "The Lord of The Rings",
+            "releaseYear": "2001",
+            "genre": "Adventure"
+        },
+        {
+            "imageUrl": "https://via.placeholder.com/150/771796",
+            "title": "Breaking Bad",
+            "releaseYear": "2008",
+            "genre": "Thriller"
+        }
+
+    ]
+}
